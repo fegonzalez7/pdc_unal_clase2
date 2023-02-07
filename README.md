@@ -19,8 +19,13 @@ Dependiendo de la versión se obtine algo de este estilo.
 [![image.png](https://i.postimg.cc/gr9kWLP0/image.png)](https://postimg.cc/CnNVC15y)
 
 #### Editor
-
+ - Block de notas
+ - Notepad++
+ - VS Code
+ - VIM (?)
 
 #### Complementos
-
+##### Git 
+Es un versionador de documentos de texto, permite almacenar camvios, revisar versiones pasdas, analizar modificaciones entre muchas otras funciones. Para instalar solo basta descargar este [enlace](https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-64-bit.exe). La ventaja es que viene integrado con una consola estilo unix.
+[![image.png](https://i.postimg.cc/FR9FZkyt/image.png)](https://postimg.cc/bGBjYJVL)
 
