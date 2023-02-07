@@ -18,10 +18,14 @@ Dependiendo de la versión se obtine algo de este estilo.
 [![image.png](https://i.postimg.cc/gr9kWLP0/image.png)](https://postimg.cc/CnNVC15y)
 
 #### Editor
- - Block de notas: Vien integrado con windows
+ - Block de notas: Viene integrado con windows
+[![image.png](https://i.postimg.cc/kXcWqKtj/image.png)](https://postimg.cc/4mYY1KPt)
+
  - Notepad++: Es una opción mucho mejor al notepad tradicional.-- [Enlace](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.9/npp.8.4.9.Installer.x64.exe)--
- - VS Code: Una de las mejores cosas que ha hecho microsoft, es el mejor editor de code que existe (al menos en mi opinión). Algunos lo consideran un IDE, sin embargo en el sentido estricto de la palabra es solo un editor con esteroides, pero para efectos del curso y la vida funciona a la perfección. Se puede descargar [aquí](https://code.visualstudio.com/docs/?dv=win), es libre asi que 0 preocupaciones. **Recomendación:** Es mejor bajarlo en inglés (así se practica) y lo pueden asociar con su cuenta de Github.
- [![Screenshot-from-2023-02-07-16-44-38.png](https://i.postimg.cc/Gmk8yxhJ/Screenshot-from-2023-02-07-16-44-38.png)](https://postimg.cc/68ppsRZy)
+[![image.png](https://i.postimg.cc/dV5Rmrs7/image.png)](https://postimg.cc/NKrrQyrY)
+
+ - VS Code: Una de las mejores cosas que ha hecho microsoft, es el mejor editor de code que existe (al menos en mi opinión). Algunos lo consideran un IDE, sin embargo en el sentido estricto de la palabra es solo un editor con esteroides, pero para efectos del curso y la vida funciona a la perfección. Se puede descargar [aquí](https://code.visualstudio.com/docs/?dv=win), es libre asi que 0 preocupaciones. **Recomendación:** Es mejor bajarlo en inglés (así se practica) y lo pueden asociar con su cuenta de Github.</br>
+[![Screenshot-from-2023-02-07-16-44-38.png](https://i.postimg.cc/Gmk8yxhJ/Screenshot-from-2023-02-07-16-44-38.png)](https://postimg.cc/68ppsRZy)
 
 #### Complementos
 ##### Plugins en VSCode
