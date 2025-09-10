@@ -4,7 +4,7 @@
 ### Windows
 Si están utilizando windows este el procedimiento para las herramientas del curso.
 
-#### Interprete
+#### Intérprete
 Como lenguaje se utilizará python, el cual es un lenguaje interpretado (más adelante se verá con detalle qué significa). Python se encuentra en su tercera versión, por defecto en windows no viene instalado, por lo tanto es necesario descargarlo e instalarlo.
 
 Es tan simple como visitar esta [página](https://www.python.org/downloads/), descargar una versión 3.6 o superior, el típico siguiente-siguiente y hecho.
